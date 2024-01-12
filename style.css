@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: rgb(207, 206, 207);
+}
+.button{
+    height: 18vmin;
+    width: 18vmin;
+    font-size: 90px;
+    background-color: white;
+    color: black;
+    border-radius: 1.5rem;
+    border: none;
+}
+#reset{
+    font-size: large;
+    height: 40px;
+    width: 60px;
+}#main{
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#game{
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vmin;
+}
